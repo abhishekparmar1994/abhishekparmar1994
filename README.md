@@ -7,6 +7,7 @@ class Bio extends SoftwareDeveloper {
   name     = 'Abhishek Parmar';
   title    = 'Software Engineer';
   location = 'Gujarat, India';
+  mail     = 'abhishekparmar32@gmaill.com'
   availability = "Available to hire!!"
 }
 
