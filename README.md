@@ -4,16 +4,16 @@
 import SoftwareDeveloper from 'India';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Akash Pathak';
+  name     = 'Abhishek Parmar';
   title    = 'Software Engineer';
-  location = 'Bihar, India';
+  location = 'Gujarat, India';
   availability = "Available to hire!!"
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'Python'];
+  languages  = ['JavaScript', 'PHP'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'Express Js', 'Angular'];
+  frameworks = ['React', 'Express Js', 'Vue'];
 }
 
 ```
